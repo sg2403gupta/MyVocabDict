@@ -1,5 +1,7 @@
 # React + Vite
 
+Project Link: https://sg2403gupta.github.io/MyVocabDict/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
